@@ -14,7 +14,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar:AppBar(
-        title:Text("My first app"),
+        title:Text("My second app"),
         centerTitle:true,
         backgroundColor: Colors.greenAccent[400],
 
